@@ -7,7 +7,9 @@
 %define vendor_pretty Xiaomi
 %define device_pretty Mi 6
 
+%define have_custom_img_recovery 1
 %define have_custom_img_boot 1
+
 %define installable_zip 1
 
 %define droid_target_aarch64 1
